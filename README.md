@@ -15,5 +15,5 @@ Sou um desenvolvedor PHP e Laravel. Adoro resolver problemas complexos e aprende
 ![julio000852 GitHub stats](https://github-readme-stats.vercel.app/api?username=julio000852&show_icons=true&theme=tokyonight)
 
 ## 📫 Entre em Contato
-- LinkedIn - Julio Cesar
+- LinkedIn - [Julio Cesar](https://www.linkedin.com/in/julio-cesar-785150208/)
 - Email - julio000852@gmail.com
